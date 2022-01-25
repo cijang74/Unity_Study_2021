@@ -46,7 +46,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\LearningMethods.cs" />
+     <Compile Include="Assets\Scripts\LearningReusableMethodsWithReturn.cs" />
+     <Compile Include="Assets\Scripts\LearningReuseableMethods.cs" />
      <Compile Include="Assets\Scripts\LearningScript.cs" />
+     <Compile Include="Assets\Scripts\LearningStatements.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Hub/Editor/5.6.7f1/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
